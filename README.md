@@ -82,8 +82,8 @@ I believe the best way to learn technology is to build real projects, understand
 I'm interested in connecting with developers, collaborating on meaningful projects, and learning from the open-source community.
 
 - 💻 Explore my repositories here on GitHub
-- 🔗 [LinkedIn](https://www.linkedin.com/)
-- 🌐 Portfolio — coming soon
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aswath-shri-ram-s-b-5906873b3/)
+- 🌐 [MyPortfolio](https://portfolio-project-mu-orpin.vercel.app)
 
 ---
 
